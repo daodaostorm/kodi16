@@ -1,0 +1,4 @@
+DataCacheCore.o: DataCacheCore.cpp \
+ /home/pivos/proj/xbmc-16.1-Jarvis/xbmc/cores/DataCacheCore.h
+DataCacheCore.cpp :
+ /home/pivos/proj/xbmc-16.1-Jarvis/xbmc/cores/DataCacheCore.h :

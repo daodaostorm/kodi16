@@ -1,0 +1,96 @@
+Neptune/Source/Core/NptStrings.o: Neptune/Source/Core/NptStrings.cpp \
+ Neptune/Source/Core/NptConfig.h Neptune/Source/Core/NptTypes.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs_elf.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/android/api-level.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/internal_types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/syslimits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/page.h \
+ Neptune/Source/Core/NptConstants.h Neptune/Source/Core/NptStrings.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/new \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/c++config.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/os_defines.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/cpu_defines.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/exception \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/atomic_lockfree_defines.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/exception_ptr.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/exception_defines.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/nested_exception.h \
+ Neptune/Source/Core/NptList.h Neptune/Source/Core/NptResults.h \
+ Neptune/Source/Core/NptCommon.h Neptune/Source/Core/NptArray.h \
+ Neptune/Source/Core/NptDebug.h Neptune/Source/Core/NptHash.h \
+ Neptune/Source/Core/NptUtils.h Neptune/Source/Core/NptMap.h \
+ Neptune/Source/Core/NptDataBuffer.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/stdio.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stdint.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/stdint.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/_types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/_types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/_wchar_limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/posix_types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/stddef.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/compiler.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/posix_types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/kernel.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/sysmacros.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stdarg.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/string.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/malloc.h
+Neptune/Source/Core/NptStrings.cpp :
+ Neptune/Source/Core/NptConfig.h Neptune/Source/Core/NptTypes.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs_elf.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/android/api-level.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/internal_types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/syslimits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/page.h :
+ Neptune/Source/Core/NptConstants.h Neptune/Source/Core/NptStrings.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/new :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/c++config.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/os_defines.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/cpu_defines.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/exception :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/atomic_lockfree_defines.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/exception_ptr.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/exception_defines.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/bits/nested_exception.h :
+ Neptune/Source/Core/NptList.h Neptune/Source/Core/NptResults.h :
+ Neptune/Source/Core/NptCommon.h Neptune/Source/Core/NptArray.h :
+ Neptune/Source/Core/NptDebug.h Neptune/Source/Core/NptHash.h :
+ Neptune/Source/Core/NptUtils.h Neptune/Source/Core/NptMap.h :
+ Neptune/Source/Core/NptDataBuffer.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/stdio.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stdint.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/stdint.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/_types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/_types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/_wchar_limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/posix_types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/stddef.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/compiler.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/posix_types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/kernel.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/sysmacros.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stdarg.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/string.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/malloc.h :

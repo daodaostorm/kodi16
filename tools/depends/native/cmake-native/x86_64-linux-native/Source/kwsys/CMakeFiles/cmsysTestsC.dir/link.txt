@@ -1,0 +1,1 @@
+/usr/bin/gcc  -I/home/pivos/xbmc-depends/x86_64-linux-gnu-native/include    -L/home/pivos/xbmc-depends/x86_64-linux-gnu-native/lib CMakeFiles/cmsysTestsC.dir/cmsysTestsC.c.o CMakeFiles/cmsysTestsC.dir/testEncode.c.o CMakeFiles/cmsysTestsC.dir/testTerminal.c.o  -o cmsysTestsC -rdynamic libcmsys_c.a 

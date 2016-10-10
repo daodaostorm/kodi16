@@ -1,0 +1,2 @@
+VideoSettings.o: VideoSettings.cpp VideoSettings.h
+VideoSettings.cpp VideoSettings.h :

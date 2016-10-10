@@ -1,0 +1,14 @@
+fstrcmp.o: fstrcmp.c \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/string.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs_elf.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/android/api-level.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/malloc.h
+fstrcmp.c :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/string.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs_elf.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/android/api-level.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/malloc.h :

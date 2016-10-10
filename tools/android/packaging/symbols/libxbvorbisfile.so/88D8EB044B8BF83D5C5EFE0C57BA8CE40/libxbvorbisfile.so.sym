@@ -1,0 +1,78 @@
+MODULE Linux arm 88D8EB044B8BF83D5C5EFE0C57BA8CE40 libxbvorbisfile.so
+FILE 0 /s/ndk-toolchain/src/build/../gcc/gcc-4.8/libgcc/libgcc2.c
+FUNC 5420 44 0 __fixdfdi
+5420 4 1314 0
+5424 8 1315 0
+542c 8 1314 0
+5434 8 1315 0
+543c 4 1316 0
+5440 4 1315 0
+5444 14 1316 0
+5458 4 1317 0
+545c 4 1318 0
+5460 4 1317 0
+FUNC 5464 68 0 __fixunsdfdi
+5464 4 1295 0
+5468 8 1299 0
+5470 8 1295 0
+5478 c 1299 0
+5484 24 1304 0
+54a8 4 1308 0
+54ac 4 1304 0
+54b0 4 1307 0
+54b4 18 1308 0
+PUBLIC 2cdc 0 ov_clear
+PUBLIC 2f78 0 ov_halfrate_p
+PUBLIC 2f90 0 ov_test_callbacks
+PUBLIC 2fbc 0 ov_test
+PUBLIC 300c 0 ov_streams
+PUBLIC 3014 0 ov_seekable
+PUBLIC 301c 0 ov_bitrate_instant
+PUBLIC 3094 0 ov_serialnumber
+PUBLIC 30e0 0 ov_raw_total
+PUBLIC 3180 0 ov_pcm_total
+PUBLIC 3214 0 ov_raw_seek
+PUBLIC 377c 0 ov_open_callbacks
+PUBLIC 3814 0 ov_open
+PUBLIC 3864 0 ov_fopen
+PUBLIC 38b8 0 ov_test_open
+PUBLIC 3914 0 ov_pcm_seek_page
+PUBLIC 4050 0 ov_pcm_seek
+PUBLIC 4390 0 ov_halfrate
+PUBLIC 4440 0 ov_time_total
+PUBLIC 4508 0 ov_bitrate
+PUBLIC 467c 0 ov_time_seek
+PUBLIC 4778 0 ov_time_seek_page
+PUBLIC 4870 0 ov_raw_tell
+PUBLIC 4890 0 ov_pcm_tell
+PUBLIC 48b0 0 ov_time_tell
+PUBLIC 49b8 0 ov_info
+PUBLIC 4d0c 0 ov_comment
+PUBLIC 4d5c 0 ov_read_filter
+PUBLIC 50f4 0 ov_read
+PUBLIC 5128 0 ov_read_float
+PUBLIC 51f8 0 ov_crosslap
+PUBLIC 5394 0 ov_raw_seek_lap
+PUBLIC 53b4 0 ov_pcm_seek_lap
+PUBLIC 53d4 0 ov_pcm_seek_page_lap
+PUBLIC 53f4 0 ov_time_seek_lap
+PUBLIC 5408 0 ov_time_seek_page_lap
+PUBLIC 5420 0 __aeabi_d2lz
+PUBLIC 5464 0 __aeabi_d2ulz
+PUBLIC 54cc 0 __aeabi_dmul
+PUBLIC 5738 0 __divdf3
+PUBLIC 593c 0 __gtdf2
+PUBLIC 5944 0 __ltdf2
+PUBLIC 594c 0 __cmpdf2
+PUBLIC 59d4 0 __aeabi_cdrcmple
+PUBLIC 59f0 0 __aeabi_cdcmpeq
+PUBLIC 5a04 0 __aeabi_dcmpeq
+PUBLIC 5a18 0 __aeabi_dcmplt
+PUBLIC 5a2c 0 __aeabi_dcmple
+PUBLIC 5a40 0 __aeabi_dcmpge
+PUBLIC 5a54 0 __aeabi_dcmpgt
+PUBLIC 5a68 0 __aeabi_d2uiz
+STACK CFI INIT 5420 44 .cfa: sp 0 + .ra: lr
+STACK CFI 5424 .cfa: sp 16 + .ra: .cfa -4 + ^ r3: .cfa -16 + ^ r4: .cfa -12 + ^ r5: .cfa -8 + ^
+STACK CFI INIT 5464 68 .cfa: sp 0 + .ra: lr
+STACK CFI 5468 .cfa: sp 16 + .ra: .cfa -4 + ^ r4: .cfa -16 + ^ r5: .cfa -12 + ^ r6: .cfa -8 + ^

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -I/home/pivos/xbmc-depends/x86_64-linux-gnu-native/include    -L/home/pivos/xbmc-depends/x86_64-linux-gnu-native/lib CMakeFiles/pseudo_iwyu.dir/pseudo_iwyu.c.o  -o pseudo_iwyu -rdynamic 

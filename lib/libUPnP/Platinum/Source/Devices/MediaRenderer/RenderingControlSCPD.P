@@ -1,0 +1,29 @@
+Platinum/Source/Devices/MediaRenderer/RenderingControlSCPD.o: \
+ Platinum/Source/Devices/MediaRenderer/RenderingControlSCPD.cpp \
+ Neptune/Source/Core/NptTypes.h Neptune/Source/Core/NptConfig.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs_elf.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/android/api-level.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/internal_types.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/limits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/syslimits.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/page.h
+ Platinum/Source/Devices/MediaRenderer/RenderingControlSCPD.cpp :
+ Neptune/Source/Core/NptTypes.h Neptune/Source/Core/NptConfig.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/cdefs_elf.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/android/api-level.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/linux/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/internal_types.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/machine/limits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/sys/syslimits.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/sysroot/usr/include/asm/page.h :

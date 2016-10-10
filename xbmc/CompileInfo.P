@@ -1,0 +1,12 @@
+CompileInfo.o: CompileInfo.cpp CompileInfo.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/cstddef \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/c++config.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/os_defines.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/cpu_defines.h \
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h
+CompileInfo.cpp CompileInfo.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/cstddef :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/c++config.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/os_defines.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/include/c++/4.8/arm-linux-androideabi/armv7-a/bits/cpu_defines.h :
+ /opt/arm-linux-androideabi-4.8-vanilla/android-17/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h :
